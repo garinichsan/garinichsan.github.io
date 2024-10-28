@@ -1,0 +1,70 @@
+.experienceContainer {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  /* background-color: white; */
+  /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+  border-radius: 0.5rem;
+}
+
+.experienceTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.experienceList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.experienceItem {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.companyLogo {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.25rem;
+}
+
+.jobInfo {
+  flex-grow: 1;
+}
+
+.jobTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 0.25rem 0;
+}
+
+.companyName {
+  font-size: 1.125rem;
+  margin: 0 0 0.5rem 0;
+}
+
+.jobMeta {
+  display: flex;
+  align-items: center;
+  font-size: 0.875rem;
+  margin-bottom: 0.25rem;
+}
+
+.icon {
+  width: 1rem;
+  height: 1rem;
+  margin-right: 0.25rem;
+}
+
+.jobDescription {
+  list-style-type: disc;
+  padding-left: 1.25rem;
+  margin-top: 0.5rem;
+}
+
+.jobDescriptionItem {
+  margin-bottom: 0.25rem;
+}
