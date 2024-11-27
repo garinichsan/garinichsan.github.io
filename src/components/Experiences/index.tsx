@@ -10,13 +10,13 @@ export default function Component(): JSX.Element {
       <ul className={styles.experienceList}>
         {Experiences.map((job) => (
           <li key={job.id} className={styles.experienceItem}>
-            <div>
+            {/* <div>
               <img
                 src={job.companyLogo}
                 alt={`${job.companyName} logo`}
                 className={styles.companyLogo}
               />
-            </div>
+            </div> */}
             <div className={styles.jobInfo}>
               <h3 className={styles.jobTitle}>{job.jobTitle}</h3>
               <p className={styles.companyName}>{job.companyName}</p>
