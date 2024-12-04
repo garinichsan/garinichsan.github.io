@@ -1,0 +1,14 @@
+general:
+  label: General
+  permalink: /general
+  description: Anything
+
+tech:
+  label: Tech
+  permalink: /tech
+  description: Anything about technology
+
+devops:
+  label: DevOps
+  permalink: /devops
+  description: Anything about DevOps

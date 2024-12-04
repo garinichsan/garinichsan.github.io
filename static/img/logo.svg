@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+      @media (prefers-color-scheme: dark) {
+          path { stroke: white; }
+      }
+      @media (prefers-color-scheme: light) {
+          path { stroke: black; }
+      }
+  </style>
+  <path d="M100 40C67.9086 40 42 65.9086 42 98C42 130.091 67.9086 156 100 156C132.091 156 158 130.091 158 98" stroke="currentColor" stroke-width="12" stroke-linecap="round"/>
+  <path d="M158 98V40H100" stroke="currentColor" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 98L90 118L110 98" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
