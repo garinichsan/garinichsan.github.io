@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://garinichsan.github.io/blog</id>
+    <title>garinichsan Blog</title>
+    <updated>2024-10-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://garinichsan.github.io/blog"/>
+    <subtitle>garinichsan Blog</subtitle>
+    <icon>https://garinichsan.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://garinichsan.github.io/blog/first-blog-post</id>
+        <link href="https://garinichsan.github.io/blog/first-blog-post"/>
+        <updated>2024-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my first blog post in this site.]]></summary>
+        <content type="html"><![CDATA[<p>This is my first blog post in this site.</p>
+<p>It's been ages since I want to create my own web page and blog to share whatever I want to share. Finally it's manifested 😮‍💨.</p>
+<p>I will use this site as my portfolio pages, documentation of what I've learnt, and share something that is interesting. I hope that this pages will help my future self when I forgot about something that I've learnt before and I hope this will help other people too.</p>
+<p>Please take all of my writings here with the grain of salt. Use and adjust it with your own needs and wants.</p>
+<p>Happy reading! ✨</p>]]></content>
+        <author>
+            <name>Garin ichsan</name>
+            <uri>https://github.com/garinichsan</uri>
+        </author>
+        <category label="General" term="General"/>
+    </entry>
+</feed>

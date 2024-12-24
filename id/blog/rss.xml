@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>garinichsan Blog</title>
+        <link>https://garinichsan.github.io/id/blog</link>
+        <description>garinichsan Blog</description>
+        <lastBuildDate>Mon, 28 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>id</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://garinichsan.github.io/id/blog/first-blog-post</link>
+            <guid>https://garinichsan.github.io/id/blog/first-blog-post</guid>
+            <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my first blog post in this site.]]></description>
+            <content:encoded><![CDATA[<p>This is my first blog post in this site.</p>
+<p>It's been ages since I want to create my own web page and blog to share whatever I want to share. Finally it's manifested 😮‍💨.</p>
+<p>I will use this site as my portfolio pages, documentation of what I've learnt, and share something that is interesting. I hope that this pages will help my future self when I forgot about something that I've learnt before and I hope this will help other people too.</p>
+<p>Please take all of my writings here with the grain of salt. Use and adjust it with your own needs and wants.</p>
+<p>Happy reading! ✨</p>]]></content:encoded>
+            <category>General</category>
+        </item>
+    </channel>
+</rss>
